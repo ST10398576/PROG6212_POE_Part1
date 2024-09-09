@@ -24,8 +24,8 @@
         <Label Content="Confirm Password" HorizontalAlignment="Left" Margin="23,292,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="133,296,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
         <Label Content="Account Type" HorizontalAlignment="Left" Margin="23,335,0,0" VerticalAlignment="Top"/>
-        <CheckBox Content="Lecturer" HorizontalAlignment="Left" Margin="133,335,0,0" VerticalAlignment="Top"/>
-        <CheckBox Content="Program Co-Ordinator/Academic Manager" HorizontalAlignment="Left" Margin="133,355,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Program Co-Ordinator/Academic Manager" HorizontalAlignment="Left" Margin="133,339,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Lecturer" HorizontalAlignment="Left" Margin="133,359,0,0" VerticalAlignment="Top" />
         <Button Content="Create Account" HorizontalAlignment="Left" Margin="190,389,0,0" VerticalAlignment="Top" Width="100"/>
         <Button Content="Cancel" HorizontalAlignment="Left" Margin="133,390,0,0" VerticalAlignment="Top" Width="46"/>
 

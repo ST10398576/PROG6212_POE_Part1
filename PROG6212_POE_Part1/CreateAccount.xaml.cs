@@ -24,9 +24,6 @@ namespace PROG6212_POE_Part1
             InitializeComponent();
         }
 
-        private void CheckBox_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
+        
     }
 }
