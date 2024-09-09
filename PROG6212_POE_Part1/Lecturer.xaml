@@ -13,8 +13,8 @@
         <Label Content="Password" HorizontalAlignment="Left" Margin="34,0,0,0" VerticalAlignment="Center"/>
         <TextBox HorizontalAlignment="Left" Margin="122,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
 
-        <Button Content="Sign-In" HorizontalAlignment="Left" Margin="64,217,0,0" VerticalAlignment="Top"/>
-        <Button Content="Create an Account" HorizontalAlignment="Left" Margin="122,217,0,0" VerticalAlignment="Top"/>
+        <Button Content="Sign-In" HorizontalAlignment="Left" Margin="64,201,0,0" VerticalAlignment="Top"/>
+        <Button Content="Create an Account" HorizontalAlignment="Left" Margin="122,201,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
